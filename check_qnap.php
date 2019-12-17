@@ -1,5 +1,11 @@
 <?php
+/* 
+QNAP-NAS Plugin/Check for Nagios/Icinga2
 
+Version: master
+V4n1X (C)2019
+
+ */
 $host = $argv[1];
 $community = "public";
 
